@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/classes/MAS.863/EECS/people/Richard/favicon.png" />
+		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+		<meta name="viewport" content="width=device-width" />
+		<meta http-equiv="content-security-policy" content="">
+		<link href="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/week_layout-29436407.css" rel="stylesheet">
+		<link href="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/Avatar-948cd85c.css" rel="stylesheet">
+		<link href="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/Image-307b1d0c.css" rel="stylesheet">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/start-a59e6437.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/index-3de37d12.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/singletons-cc557a36.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/paths-6cd3a76e.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/components/layout.svelte-c5fba7fe.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/modules/pages/_layout.js-7b9cbfbc.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/_layout-8d2a742b.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/components/pages/week2/laser/_page.svx-681a105b.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/week_layout-f7784e77.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/Avatar-da2dfb39.js">
+		<link rel="modulepreload" href="/classes/MAS.863/EECS/people/Richard/_app/immutable/chunks/Image-90aace8f.js">
+	</head>
+	<body>
+		<div>
+
+
+<div class="avatar svelte-ketdv1"><a href="/classes/MAS.863/EECS/people/Richard" id="home-link"><h3 class="svelte-ketdv1">Richard Beattie</h3></a>
+</div>
+
+<div class="content svelte-b15ume"><h1>02 | Laser Cutting</h1>
+    <div class="text-body svelte-b15ume"><p>The main project of Week 2 was to design a parametric construction kit – mine was of a Ferris Wheel. Literally everything went wrong so here’s the story of that.</p>
+<h4>Cadding with Fusion360</h4>
+<p>For this project I wanted to:</p>
+<ul><li>Use a variety of joints</li>
+<li>Make living hinges</li>
+<li>Have all measurements be parametric</li>
+<li>Assemble everything in Fusion to check joint lengths and if there would be collisions</li></ul>
+<p>Fusion has a cool parameters feautre where you can specify <i>User parameters</i> that can be used across the model</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/fusion_parameters-e120a9f7.png" alt="Parameters in Fusion" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Parameters in Fusion</b></figcaption></figure>
+</div>
+<p>I saw a cool Fusion360 render of a <a href="https://fab.cba.mit.edu/classes/863.20/CBA/people/codypaige/Projects/Week01/week01.html">past HTMAA student’s</a> living hinges and wanted to try do something similiar. First mistake.</p>
+<p>Living hinges require bending in Fusion but folding out when exporting to DXF, this made Sheet Metal the ideal material to use. Unfortunally, sheet metal is <strong>weird</strong>. When I tried calculating the lengths of pieces so they’d bend flush against each other I couldn’t get them to fit. Eventually I had to accept that there’s such thing as the <strong>Fusion Constant</strong>, it’s equal to 0.299 mm the exact size of the gap that wouldn’t go away.</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/sheet-metal-box-71116d49.png" alt="Sheet metal box with wooden apperance" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Sheet metal box with wooden apperance</b></figcaption></figure>
+</div>
+<p>In the end it looked quite realistic and having the ability to unfold it came in very handy while laser cutting.</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/sheet-metal-box-unfolded-681a6232.png" alt="Sheet metal box with wooden apperance and unfolded side" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Sheet metal box with wooden apperance and unfolded side</b></figcaption></figure>
+</div>
+<p>After the base was made I sketched out the other parts, assembling each together (with the align command) to make sure everything fitted. At the beginning everything was parameterized however as I added more sketches which interacted with previous sketches the contraints started interfering with each other. I think I should of componitorized more of my bodies and I made the mistake of having all the sides of the base be in the same sketch.</p>
+<p>Firstly I made the supporting beams. They use snap joints which fit under the top of the base.</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-supports-4470bac4.png" alt="Ferris Wheel Supports" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Ferris Wheel Supports</b></figcaption></figure>
+</div>
+<p>Afterwards I made two parts with press-fit joints which act the supporting beam for the two supports</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-support-bar-6ea9293e.png" alt="Ferris Wheel Support Bar" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Ferris Wheel Support Bar</b></figcaption></figure>
+</div>
+<p>Next up was the actual wheel. This component was completeley parameterized and the stokes were circular pattern so the amount of carts and their height off the ground etc can be easily changed.</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-wheel-4ae01822.png" alt="Ferris Wheel Wheel" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Ferris Wheel Wheel</b></figcaption></figure>
+</div>
+<p>Since the two wheels have to move together they needed to be joined, so a made with press-fit joints support bars</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-wheel-supports-7fee773b.png" alt="Ferris Wheel Wheel Supports" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Ferris Wheel Wheel Supports</b></figcaption></figure>
+</div>
+<p>Finally I made the cart and attached them to the wheel with another support</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-cart-18fbb610.png" alt="Ferris Wheel Cart" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Ferris Wheel Cart</b></figcaption></figure>
+</div>
+<iframe src="https://mymit1789.autodesk360.com/shares/public/SH35dfcQT936092f0e43a4229d61dec635cc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<h4>Laser cutting the parts</h4>
+<p>To actually laser cut the parts I needed to account for kerf. Thankfully there is a Fusion360 plugin, <a href="https://apps.autodesk.com/FUSION/en/Detail/Index?id=7634902334100976871&os=Win64&appLang=en" rel="nofollow">DXF For Laser</a>, which can create <strong>.dxf</strong> files from your bodies faces and offsets the dimensions to account for kerf.</p>
+<p>I exported all my bodies as .dxf files, made some test cuts, and then cut all of them out. </p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/laser-cutting-parts-94fe922c.jpeg" alt="Parts in laser cutter" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Parts in laser cutter</b></figcaption></figure>
+</div>
+<p>Once cut I got to the fun of actually assembling and testing my living hinges</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris-wheel-assembled-base-8269df41.jpeg" alt="Base of Ferris Wheel" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Base of Ferris Wheel</b></figcaption></figure>
+</div>
+<p>Some of the joints were a bit tricky and needed to be malleted in, Unfortunally it was late so some pieces were broken during this process.</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/ferris_wheel_mallet_joints-19367870.jpeg" alt="Malleting joints in Ferris Wheel" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Malleting joints in Ferris Wheel</b></figcaption></figure>
+</div>
+<p>Finally it was all assembled!</p>
+<div><figure style="--image-width: 400px" class="svelte-1pffeem"><img src="/classes/MAS.863/EECS/people/Richard/_app/immutable/assets/assembled_ferris_wheel-5f9ff333.jpeg" alt="Assembled Ferris Wheel" class="svelte-1pffeem">
+        <figcaption align="center" class="svelte-1pffeem">
+            <b>Assembled Ferris Wheel</b></figcaption></figure>
+</div></div>
+</div>
+
+
+		<script type="module" data-sveltekit-hydrate="ozmuuw">
+			import { start } from "/classes/MAS.863/EECS/people/Richard/_app/immutable/start-a59e6437.js";
+
+			start({
+				env: {},
+				hydrate: {
+					status: 200,
+					error: null,
+					node_ids: [0, 8],
+					params: {},
+					routeId: "week2/laser",
+					data: (function(a){return [a,a]}(null)),
+					form: null
+				},
+				paths: {"base":"/classes/MAS.863/EECS/people/Richard","assets":"/classes/MAS.863/EECS/people/Richard"},
+				target: document.querySelector('[data-sveltekit-hydrate="ozmuuw"]').parentNode,
+				trailing_slash: "always"
+			});
+		</script>
+	</div>
+	</body>
+	<style>
+		html, body {
+			margin: 0;
+			font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+		}
+	</style>
+</html>

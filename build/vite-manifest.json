@@ -1,0 +1,1052 @@
+{
+  "src/lib/week1-assets/submarine-joints-rotating.mp4": {
+    "file": "_app/immutable/assets/submarine-joints-rotating-08e06025.mp4",
+    "src": "src/lib/week1-assets/submarine-joints-rotating.mp4"
+  },
+  "3dpmarker_detail.webp": {
+    "file": "_app/immutable/assets/3dpmarker_detail-10c24f85.webp",
+    "src": "3dpmarker_detail.webp"
+  },
+  "3dpmarker_feat.webp": {
+    "file": "_app/immutable/assets/3dpmarker_feat-b01d01fa.webp",
+    "src": "3dpmarker_feat.webp"
+  },
+  "revolved-queen.png": {
+    "file": "_app/immutable/assets/revolved-queen-3601d954.png",
+    "src": "revolved-queen.png"
+  },
+  "queen-sketch.png": {
+    "file": "_app/immutable/assets/queen-sketch-8bceeae7.png",
+    "src": "queen-sketch.png"
+  },
+  "filleted-revolved-queen.png": {
+    "file": "_app/immutable/assets/filleted-revolved-queen-2304d45c.png",
+    "src": "filleted-revolved-queen.png"
+  },
+  "finished-queen.png": {
+    "file": "_app/immutable/assets/finished-queen-57f604fb.png",
+    "src": "finished-queen.png"
+  },
+  "3d-propeller-sketch.png": {
+    "file": "_app/immutable/assets/3d-propeller-sketch-8a0dde0c.png",
+    "src": "3d-propeller-sketch.png"
+  },
+  "3d-propeller-extruded.png": {
+    "file": "_app/immutable/assets/3d-propeller-extruded-524c1b93.png",
+    "src": "3d-propeller-extruded.png"
+  },
+  "rendered_submarine.png": {
+    "file": "_app/immutable/assets/rendered_submarine-10e82620.png",
+    "src": "rendered_submarine.png"
+  },
+  "cuttingOutSectionsFromEnd.png": {
+    "file": "_app/immutable/assets/cuttingOutSectionsFromEnd-c7d9400f.png",
+    "src": "cuttingOutSectionsFromEnd.png"
+  },
+  "cylinderSubmarineBody.png": {
+    "file": "_app/immutable/assets/cylinderSubmarineBody-1be7fbc1.png",
+    "src": "cylinderSubmarineBody.png"
+  },
+  "pistonRubberInsert.png": {
+    "file": "_app/immutable/assets/pistonRubberInsert-4aec0ddd.png",
+    "src": "pistonRubberInsert.png"
+  },
+  "pistonRubber.png": {
+    "file": "_app/immutable/assets/pistonRubber-552a6b77.png",
+    "src": "pistonRubber.png"
+  },
+  "loftingCut.png": {
+    "file": "_app/immutable/assets/loftingCut-9cd10d74.png",
+    "src": "loftingCut.png"
+  },
+  "screwAndShaft.png": {
+    "file": "_app/immutable/assets/screwAndShaft-41255183.png",
+    "src": "screwAndShaft.png"
+  },
+  "sketchOfTwoCircles.png": {
+    "file": "_app/immutable/assets/sketchOfTwoCircles-86e429ee.png",
+    "src": "sketchOfTwoCircles.png"
+  },
+  "submarineMirrored.png": {
+    "file": "_app/immutable/assets/submarineMirrored-64cbca8b.png",
+    "src": "submarineMirrored.png"
+  },
+  "syringe.png": {
+    "file": "_app/immutable/assets/syringe-1567c549.png",
+    "src": "syringe.png"
+  },
+  "sketchOfAngledSection.png": {
+    "file": "_app/immutable/assets/sketchOfAngledSection-54a38f0e.png",
+    "src": "sketchOfAngledSection.png"
+  },
+  "fusion_parameters.png": {
+    "file": "_app/immutable/assets/fusion_parameters-e120a9f7.png",
+    "src": "fusion_parameters.png"
+  },
+  "sheet-metal-box.png": {
+    "file": "_app/immutable/assets/sheet-metal-box-71116d49.png",
+    "src": "sheet-metal-box.png"
+  },
+  "sheet-metal-box-unfolded.png": {
+    "file": "_app/immutable/assets/sheet-metal-box-unfolded-681a6232.png",
+    "src": "sheet-metal-box-unfolded.png"
+  },
+  "ferris-wheel-support-bar.png": {
+    "file": "_app/immutable/assets/ferris-wheel-support-bar-6ea9293e.png",
+    "src": "ferris-wheel-support-bar.png"
+  },
+  "ferris-wheel-cart.png": {
+    "file": "_app/immutable/assets/ferris-wheel-cart-18fbb610.png",
+    "src": "ferris-wheel-cart.png"
+  },
+  "ferris-wheel-supports.png": {
+    "file": "_app/immutable/assets/ferris-wheel-supports-4470bac4.png",
+    "src": "ferris-wheel-supports.png"
+  },
+  "ferris-wheel-wheel-supports.png": {
+    "file": "_app/immutable/assets/ferris-wheel-wheel-supports-7fee773b.png",
+    "src": "ferris-wheel-wheel-supports.png"
+  },
+  "ferris-wheel-wheel.png": {
+    "file": "_app/immutable/assets/ferris-wheel-wheel-4ae01822.png",
+    "src": "ferris-wheel-wheel.png"
+  },
+  "ferris-wheel-assembled-base.jpeg": {
+    "file": "_app/immutable/assets/ferris-wheel-assembled-base-8269df41.jpeg",
+    "src": "ferris-wheel-assembled-base.jpeg"
+  },
+  "ferris_wheel_mallet_joints.jpeg": {
+    "file": "_app/immutable/assets/ferris_wheel_mallet_joints-19367870.jpeg",
+    "src": "ferris_wheel_mallet_joints.jpeg"
+  },
+  "laser-cutting-parts.jpeg": {
+    "file": "_app/immutable/assets/laser-cutting-parts-94fe922c.jpeg",
+    "src": "laser-cutting-parts.jpeg"
+  },
+  "assembled_ferris_wheel.jpeg": {
+    "file": "_app/immutable/assets/assembled_ferris_wheel-5f9ff333.jpeg",
+    "src": "assembled_ferris_wheel.jpeg"
+  },
+  "zym_on_illustrator.jpeg": {
+    "file": "_app/immutable/assets/zym_on_illustrator-1146ca45.jpeg",
+    "src": "zym_on_illustrator.jpeg"
+  },
+  "vinyl_with_transfer_paper.jpeg": {
+    "file": "_app/immutable/assets/vinyl_with_transfer_paper-fbaf734e.jpeg",
+    "src": "vinyl_with_transfer_paper.jpeg"
+  },
+  "unweeded_vinyl.jpeg": {
+    "file": "_app/immutable/assets/unweeded_vinyl-a48eb7ff.jpeg",
+    "src": "unweeded_vinyl.jpeg"
+  },
+  "zym_vinyl_on_laptop.jpeg": {
+    "file": "_app/immutable/assets/zym_vinyl_on_laptop-8df66292.jpeg",
+    "src": "zym_vinyl_on_laptop.jpeg"
+  },
+  "programmer-board-mots.jpeg": {
+    "file": "_app/immutable/assets/programmer-board-mots-e775ce1a.jpeg",
+    "src": "programmer-board-mots.jpeg"
+  },
+  "soldering-programmer.jpeg": {
+    "file": "_app/immutable/assets/soldering-programmer-6c07bab9.jpeg",
+    "src": "soldering-programmer.jpeg"
+  },
+  "finished-programmer.jpeg": {
+    "file": "_app/immutable/assets/finished-programmer-3362e046.jpeg",
+    "src": "finished-programmer.jpeg"
+  },
+  "continuity-testing.jpeg": {
+    "file": "_app/immutable/assets/continuity-testing-d141b056.jpeg",
+    "src": "continuity-testing.jpeg"
+  },
+  "programming-the-programmer.jpeg": {
+    "file": "_app/immutable/assets/programming-the-programmer-3a5ffe49.jpeg",
+    "src": "programming-the-programmer.jpeg"
+  },
+  "scanning_tapemeasure.jpeg": {
+    "file": "_app/immutable/assets/scanning_tapemeasure-0bbf881a.jpeg",
+    "src": "scanning_tapemeasure.jpeg"
+  },
+  "tape_on_rotating_platform.jpeg": {
+    "file": "_app/immutable/assets/tape_on_rotating_platform-31502315.jpeg",
+    "src": "tape_on_rotating_platform.jpeg"
+  },
+  "shoe_on_rotating_platform.jpeg": {
+    "file": "_app/immutable/assets/shoe_on_rotating_platform-3629a895.jpeg",
+    "src": "shoe_on_rotating_platform.jpeg"
+  },
+  "scanning_shoe.jpeg": {
+    "file": "_app/immutable/assets/scanning_shoe-78172ff9.jpeg",
+    "src": "scanning_shoe.jpeg"
+  },
+  "pirate_ship_render.png": {
+    "file": "_app/immutable/assets/pirate_ship_render-1f7c8379.png",
+    "src": "pirate_ship_render.png"
+  },
+  "sketch_of_ship_hull.png": {
+    "file": "_app/immutable/assets/sketch_of_ship_hull-ac313dc3.png",
+    "src": "sketch_of_ship_hull.png"
+  },
+  "captains_quarters.png": {
+    "file": "_app/immutable/assets/captains_quarters-5b5d2694.png",
+    "src": "captains_quarters.png"
+  },
+  "ship_wall_posts.png": {
+    "file": "_app/immutable/assets/ship_wall_posts-e95c6c5d.png",
+    "src": "ship_wall_posts.png"
+  },
+  "ship_wheel.png": {
+    "file": "_app/immutable/assets/ship_wheel-2646f82e.png",
+    "src": "ship_wheel.png"
+  },
+  "section_analysis_of_ship.png": {
+    "file": "_app/immutable/assets/section_analysis_of_ship-c747ed1b.png",
+    "src": "section_analysis_of_ship.png"
+  },
+  "wheel_on_ship.png": {
+    "file": "_app/immutable/assets/wheel_on_ship-ede5cb51.png",
+    "src": "wheel_on_ship.png"
+  },
+  "sails_on_ship.png": {
+    "file": "_app/immutable/assets/sails_on_ship-c64d2452.png",
+    "src": "sails_on_ship.png"
+  },
+  "the_deep_ultimaker.jpeg": {
+    "file": "_app/immutable/assets/the_deep_ultimaker-93594fac.jpeg",
+    "src": "the_deep_ultimaker.jpeg"
+  },
+  "printing_lowpoly_ship.jpeg": {
+    "file": "_app/immutable/assets/printing_lowpoly_ship-9c1d6567.jpeg",
+    "src": "printing_lowpoly_ship.jpeg"
+  },
+  "slicing_pirate_ship.jpeg": {
+    "file": "_app/immutable/assets/slicing_pirate_ship-3c9597fb.jpeg",
+    "src": "slicing_pirate_ship.jpeg"
+  },
+  "D11C-echo-hello-world.jpg": {
+    "file": "_app/immutable/assets/D11C-echo-hello-world-b4d9f146.jpg",
+    "src": "D11C-echo-hello-world.jpg"
+  },
+  "d11c-eagle.jpg": {
+    "file": "_app/immutable/assets/d11c-eagle-ff5f299e.jpg",
+    "src": "d11c-eagle.jpg"
+  },
+  "routed-board.jpg": {
+    "file": "_app/immutable/assets/routed-board-d109bee9.jpg",
+    "src": "routed-board.jpg"
+  },
+  "eagle-libraries.jpg": {
+    "file": "_app/immutable/assets/eagle-libraries-ea07087c.jpg",
+    "src": "eagle-libraries.jpg"
+  },
+  "drc.jpg": {
+    "file": "_app/immutable/assets/drc-f40a2fcd.jpg",
+    "src": "drc.jpg"
+  },
+  "schematic.jpg": {
+    "file": "_app/immutable/assets/schematic-1972ea94.jpg",
+    "src": "schematic.jpg"
+  },
+  "board_with_flashing_light.jpg": {
+    "file": "_app/immutable/assets/board_with_flashing_light-19791816.jpg",
+    "src": "board_with_flashing_light.jpg"
+  },
+  "final_board.jpg": {
+    "file": "_app/immutable/assets/final_board-2e400d8e.jpg",
+    "src": "final_board.jpg"
+  },
+  "milling_board_1.jpg": {
+    "file": "_app/immutable/assets/milling_board_1-a2e95272.jpg",
+    "src": "milling_board_1.jpg"
+  },
+  "ripped_headers.jpg": {
+    "file": "_app/immutable/assets/ripped_headers-68fe84cd.jpg",
+    "src": "ripped_headers.jpg"
+  },
+  "lego-double-decker-couch.jpg": {
+    "file": "_app/immutable/assets/lego-double-decker-couch-4d250636.jpg",
+    "src": "lego-double-decker-couch.jpg"
+  },
+  "stuffed_board_2.jpg": {
+    "file": "_app/immutable/assets/stuffed_board_2-d98db62d.jpg",
+    "src": "stuffed_board_2.jpg"
+  },
+  "milling-1-bantman.jpg": {
+    "file": "_app/immutable/assets/milling-1-bantman-425e52b1.jpg",
+    "src": "milling-1-bantman.jpg"
+  },
+  "measuring-couch.jpg": {
+    "file": "_app/immutable/assets/measuring-couch-69d50c5f.jpg",
+    "src": "measuring-couch.jpg"
+  },
+  "couch-with-desk.jpg": {
+    "file": "_app/immutable/assets/couch-with-desk-f0fd68b9.jpg",
+    "src": "couch-with-desk.jpg"
+  },
+  "armrest.jpg": {
+    "file": "_app/immutable/assets/armrest-edf553c5.jpg",
+    "src": "armrest.jpg"
+  },
+  "lee-1.jpg": {
+    "file": "_app/immutable/assets/lee-1-aaf67497.jpg",
+    "src": "lee-1.jpg"
+  },
+  "lee-2.jpg": {
+    "file": "_app/immutable/assets/lee-2-6609acb7.jpg",
+    "src": "lee-2.jpg"
+  },
+  "couch-bottom.jpg": {
+    "file": "_app/immutable/assets/couch-bottom-78de4747.jpg",
+    "src": "couch-bottom.jpg"
+  },
+  "lee-3.jpg": {
+    "file": "_app/immutable/assets/lee-3-f1436418.jpg",
+    "src": "lee-3.jpg"
+  },
+  "assembled-back.jpg": {
+    "file": "_app/immutable/assets/assembled-back-36190542.jpg",
+    "src": "assembled-back.jpg"
+  },
+  "assembled-couch.jpg": {
+    "file": "_app/immutable/assets/assembled-couch-e9a5d4e4.jpg",
+    "src": "assembled-couch.jpg"
+  },
+  "testing-couch.jpg": {
+    "file": "_app/immutable/assets/testing-couch-5c1bd8ac.jpg",
+    "src": "testing-couch.jpg"
+  },
+  "vaccuming.jpg": {
+    "file": "_app/immutable/assets/vaccuming-1aed757c.jpg",
+    "src": "vaccuming.jpg"
+  },
+  "flood.jpg": {
+    "file": "_app/immutable/assets/flood-2994747e.jpg",
+    "src": "flood.jpg"
+  },
+  "makeshift-dryer.jpg": {
+    "file": "_app/immutable/assets/makeshift-dryer-fa520599.jpg",
+    "src": "makeshift-dryer.jpg"
+  },
+  "makeshift-mop.jpg": {
+    "file": "_app/immutable/assets/makeshift-mop-87d2ac66.jpg",
+    "src": "makeshift-mop.jpg"
+  },
+  "sink-overflowing.jpg": {
+    "file": "_app/immutable/assets/sink-overflowing-4c8adeb8.jpg",
+    "src": "sink-overflowing.jpg"
+  },
+  "cnc-router.jpg": {
+    "file": "_app/immutable/assets/cnc-router-2020b6b7.jpg",
+    "src": "cnc-router.jpg"
+  },
+  "cnc-router-computer.jpg": {
+    "file": "_app/immutable/assets/cnc-router-computer-4a9e0aae.jpg",
+    "src": "cnc-router-computer.jpg"
+  },
+  "cnc-router-cutting.jpg": {
+    "file": "_app/immutable/assets/cnc-router-cutting-2d009b75.jpg",
+    "src": "cnc-router-cutting.jpg"
+  },
+  "wood-pile.jpg": {
+    "file": "_app/immutable/assets/wood-pile-7d77b5b2.jpg",
+    "src": "wood-pile.jpg"
+  },
+  "back-side-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/back-side-led-matrix-a981358e.jpeg",
+    "src": "back-side-led-matrix.jpeg"
+  },
+  "broken-milled-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/broken-milled-led-matrix-cb0204b8.jpeg",
+    "src": "broken-milled-led-matrix.jpeg"
+  },
+  "milled-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/milled-led-matrix-099c1338.jpeg",
+    "src": "milled-led-matrix.jpeg"
+  },
+  "led-flashing.jpeg": {
+    "file": "_app/immutable/assets/led-flashing-aab56d27.jpeg",
+    "src": "led-flashing.jpeg"
+  },
+  "milling-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/milling-led-matrix-3277e313.jpeg",
+    "src": "milling-led-matrix.jpeg"
+  },
+  "flashing-with-atmel.jpeg": {
+    "file": "_app/immutable/assets/flashing-with-atmel-490e9ce4.jpeg",
+    "src": "flashing-with-atmel.jpeg"
+  },
+  "other-mill-messes-up-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/other-mill-messes-up-led-matrix-b1526222.jpeg",
+    "src": "other-mill-messes-up-led-matrix.jpeg"
+  },
+  "other-mill-led-matrix-job-setup.jpeg": {
+    "file": "_app/immutable/assets/other-mill-led-matrix-job-setup-eb1d6744.jpeg",
+    "src": "other-mill-led-matrix-job-setup.jpeg"
+  },
+  "appa.png": {
+    "file": "_app/immutable/assets/appa-3b100c37.png",
+    "src": "appa.png"
+  },
+  "routing-led-matrix.jpeg": {
+    "file": "_app/immutable/assets/routing-led-matrix-9a258977.jpeg",
+    "src": "routing-led-matrix.jpeg"
+  },
+  "scraped-simple-board.jpeg": {
+    "file": "_app/immutable/assets/scraped-simple-board-61c40c70.jpeg",
+    "src": "scraped-simple-board.jpeg"
+  },
+  "appa-rough.jpeg": {
+    "file": "_app/immutable/assets/appa-rough-36ab755f.jpeg",
+    "src": "appa-rough.jpeg"
+  },
+  "programmig-button-and-led.jpeg": {
+    "file": "_app/immutable/assets/programmig-button-and-led-499a4af0.jpeg",
+    "src": "programmig-button-and-led.jpeg"
+  },
+  "cube-in-cube.jpeg": {
+    "file": "_app/immutable/assets/cube-in-cube-e74dec7c.jpeg",
+    "src": "cube-in-cube.jpeg"
+  },
+  "cube-arm.jpeg": {
+    "file": "_app/immutable/assets/cube-arm-a8503e4f.jpeg",
+    "src": "cube-arm.jpeg"
+  },
+  "cube-finished.jpeg": {
+    "file": "_app/immutable/assets/cube-finished-29e4f083.jpeg",
+    "src": "cube-finished.jpeg"
+  },
+  "appa-rough-in-sculptgl.jpeg": {
+    "file": "_app/immutable/assets/appa-rough-in-sculptgl-36ab37f4.jpeg",
+    "src": "appa-rough-in-sculptgl.jpeg"
+  },
+  "appa-finished.jpeg": {
+    "file": "_app/immutable/assets/appa-finished-013893ef.jpeg",
+    "src": "appa-finished.jpeg"
+  },
+  "cube-with-hypercube-cut-out.jpeg": {
+    "file": "_app/immutable/assets/cube-with-hypercube-cut-out-36f760fb.jpeg",
+    "src": "cube-with-hypercube-cut-out.jpeg"
+  },
+  "cube-negative.jpeg": {
+    "file": "_app/immutable/assets/cube-negative-d342f305.jpeg",
+    "src": "cube-negative.jpeg"
+  },
+  "cube-with-planes.jpeg": {
+    "file": "_app/immutable/assets/cube-with-planes-a68c2358.jpeg",
+    "src": "cube-with-planes.jpeg"
+  },
+  "wax-with-cube-cutout-design.jpeg": {
+    "file": "_app/immutable/assets/wax-with-cube-cutout-design-250461b5.jpeg",
+    "src": "wax-with-cube-cutout-design.jpeg"
+  },
+  "adative-cam.jpeg": {
+    "file": "_app/immutable/assets/adative-cam-6b8171fc.jpeg",
+    "src": "adative-cam.jpeg"
+  },
+  "wax-block-dog-bones.jpeg": {
+    "file": "_app/immutable/assets/wax-block-dog-bones-11f3848a.jpeg",
+    "src": "wax-block-dog-bones.jpeg"
+  },
+  "cam-controller.jpeg": {
+    "file": "_app/immutable/assets/cam-controller-8ff0b9f9.jpeg",
+    "src": "cam-controller.jpeg"
+  },
+  "wax-block-cam-setup.jpeg": {
+    "file": "_app/immutable/assets/wax-block-cam-setup-5ca5d8de.jpeg",
+    "src": "wax-block-cam-setup.jpeg"
+  },
+  "router-cutting.jpeg": {
+    "file": "_app/immutable/assets/router-cutting-719e034c.jpeg",
+    "src": "router-cutting.jpeg"
+  },
+  "two-molded-cube-sides.jpeg": {
+    "file": "_app/immutable/assets/two-molded-cube-sides-6a4d42a4.jpeg",
+    "src": "two-molded-cube-sides.jpeg"
+  },
+  "wax-block-with-cous-cous.jpeg": {
+    "file": "_app/immutable/assets/wax-block-with-cous-cous-9124af22.jpeg",
+    "src": "wax-block-with-cous-cous.jpeg"
+  },
+  "six-molded-cube-sides.jpeg": {
+    "file": "_app/immutable/assets/six-molded-cube-sides-cba14a52.jpeg",
+    "src": "six-molded-cube-sides.jpeg"
+  },
+  "assmbled-molded-cube.jpeg": {
+    "file": "_app/immutable/assets/assmbled-molded-cube-7b7cd35f.jpeg",
+    "src": "assmbled-molded-cube.jpeg"
+  },
+  "casting-material.jpeg": {
+    "file": "_app/immutable/assets/casting-material-f49700ad.jpeg",
+    "src": "casting-material.jpeg"
+  },
+  "placing-items-in-cups.jpeg": {
+    "file": "_app/immutable/assets/placing-items-in-cups-cfa5205e.jpeg",
+    "src": "placing-items-in-cups.jpeg"
+  },
+  "preparing-to-mold.jpeg": {
+    "file": "_app/immutable/assets/preparing-to-mold-c9fc45af.jpeg",
+    "src": "preparing-to-mold.jpeg"
+  },
+  "measuring-volume-with-cous-cous.jpeg": {
+    "file": "_app/immutable/assets/measuring-volume-with-cous-cous-4c28b89d.jpeg",
+    "src": "measuring-volume-with-cous-cous.jpeg"
+  },
+  "filled-cups.jpeg": {
+    "file": "_app/immutable/assets/filled-cups-fe38964f.jpeg",
+    "src": "filled-cups.jpeg"
+  },
+  "extraced-pieces.jpeg": {
+    "file": "_app/immutable/assets/extraced-pieces-bf196c39.jpeg",
+    "src": "extraced-pieces.jpeg"
+  },
+  "cutting-piece-out-of-mold.jpeg": {
+    "file": "_app/immutable/assets/cutting-piece-out-of-mold-f2805076.jpeg",
+    "src": "cutting-piece-out-of-mold.jpeg"
+  },
+  "thermochromic-powder.jpeg": {
+    "file": "_app/immutable/assets/thermochromic-powder-b8f73f60.jpeg",
+    "src": "thermochromic-powder.jpeg"
+  },
+  "degassing.jpeg": {
+    "file": "_app/immutable/assets/degassing-e93d3b67.jpeg",
+    "src": "degassing.jpeg"
+  },
+  "dragon-skin-mixture.jpeg": {
+    "file": "_app/immutable/assets/dragon-skin-mixture-89056243.jpeg",
+    "src": "dragon-skin-mixture.jpeg"
+  },
+  "the-mess.jpeg": {
+    "file": "_app/immutable/assets/the-mess-e24d4201.jpeg",
+    "src": "the-mess.jpeg"
+  },
+  "thermochromic-bunny.jpeg": {
+    "file": "_app/immutable/assets/thermochromic-bunny-f7576eb0.jpeg",
+    "src": "thermochromic-bunny.jpeg"
+  },
+  "connectingAtmelToVCC.jpeg": {
+    "file": "_app/immutable/assets/connectingAtmelToVCC-964721b7.jpeg",
+    "src": "connectingAtmelToVCC.jpeg"
+  },
+  "flashing.jpeg": {
+    "file": "_app/immutable/assets/flashing-4737a78b.jpeg",
+    "src": "flashing.jpeg"
+  },
+  "hallEffect.jpeg": {
+    "file": "_app/immutable/assets/hallEffect-74163d3e.jpeg",
+    "src": "hallEffect.jpeg"
+  },
+  "gettingValues.jpeg": {
+    "file": "_app/immutable/assets/gettingValues-09667875.jpeg",
+    "src": "gettingValues.jpeg"
+  },
+  "messOfCables.jpeg": {
+    "file": "_app/immutable/assets/messOfCables-512e88bd.jpeg",
+    "src": "messOfCables.jpeg"
+  },
+  "solderedBoard.jpeg": {
+    "file": "_app/immutable/assets/solderedBoard-dcc9b041.jpeg",
+    "src": "solderedBoard.jpeg"
+  },
+  "routedBoard.jpeg": {
+    "file": "_app/immutable/assets/routedBoard-eef1c30d.jpeg",
+    "src": "routedBoard.jpeg"
+  },
+  "uploadingCode.jpeg": {
+    "file": "_app/immutable/assets/uploadingCode-384c1b6c.jpeg",
+    "src": "uploadingCode.jpeg"
+  },
+  "swdPinout.jpeg": {
+    "file": "_app/immutable/assets/swdPinout-36a05f5c.jpeg",
+    "src": "swdPinout.jpeg"
+  },
+  "schematicForBoard.jpeg": {
+    "file": "_app/immutable/assets/schematicForBoard-cd2d30d9.jpeg",
+    "src": "schematicForBoard.jpeg"
+  },
+  "newElectronics.jpeg": {
+    "file": "_app/immutable/assets/newElectronics-2ea9632d.jpeg",
+    "src": "newElectronics.jpeg"
+  },
+  "connectingPadSymbol.jpeg": {
+    "file": "_app/immutable/assets/connectingPadSymbol-453106e1.jpeg",
+    "src": "connectingPadSymbol.jpeg"
+  },
+  "symbol.jpeg": {
+    "file": "_app/immutable/assets/symbol-319068d0.jpeg",
+    "src": "symbol.jpeg"
+  },
+  "pad.jpeg": {
+    "file": "_app/immutable/assets/pad-ab018288.jpeg",
+    "src": "pad.jpeg"
+  },
+  "webserver.jpeg": {
+    "file": "_app/immutable/assets/webserver-df35ddb7.jpeg",
+    "src": "webserver.jpeg"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/start-a59e6437.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_singletons-cc557a36.js",
+      "_paths-6cd3a76e.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js",
+      ".svelte-kit/generated/nodes/3.js",
+      ".svelte-kit/generated/nodes/4.js",
+      ".svelte-kit/generated/nodes/5.js",
+      ".svelte-kit/generated/nodes/6.js",
+      ".svelte-kit/generated/nodes/7.js",
+      ".svelte-kit/generated/nodes/8.js",
+      ".svelte-kit/generated/nodes/9.js",
+      ".svelte-kit/generated/nodes/10.js",
+      ".svelte-kit/generated/nodes/11.js",
+      ".svelte-kit/generated/nodes/12.js",
+      ".svelte-kit/generated/nodes/13.js",
+      ".svelte-kit/generated/nodes/14.js",
+      ".svelte-kit/generated/nodes/15.js",
+      ".svelte-kit/generated/nodes/16.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte": {
+    "file": "_app/immutable/components/layout.svelte-c5fba7fe.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "_app/immutable/components/error.svelte-34c405ab.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_singletons-cc557a36.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-38741fdf.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_Avatar-da2dfb39.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-5bb9f4b0.css"
+    ]
+  },
+  "src/routes/final-project/+page.svx": {
+    "file": "_app/immutable/components/pages/final-project/_page.svx-4af080cf.js",
+    "src": "src/routes/final-project/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_paths-6cd3a76e.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/to-come-back-to/+page.svx": {
+    "file": "_app/immutable/components/pages/to-come-back-to/_page.svx-856801b8.js",
+    "src": "src/routes/to-come-back-to/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js"
+    ]
+  },
+  "src/routes/website/+page.svx": {
+    "file": "_app/immutable/components/pages/website/_page.svx-2988d7e6.js",
+    "src": "src/routes/website/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js"
+    ]
+  },
+  "src/routes/week1/+page.svx": {
+    "file": "_app/immutable/components/pages/week1/_page.svx-63fbdb6a.js",
+    "src": "src/routes/week1/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Image-90aace8f.js",
+      "_Details-ccde7feb.js",
+      "_paths-6cd3a76e.js",
+      "_SideBySide-02aeca15.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-00093d79.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/submarine-joints-rotating-08e06025.mp4"
+    ]
+  },
+  "src/routes/week2/+page.svx": {
+    "file": "_app/immutable/components/pages/week2/_page.svx-5fd6b823.js",
+    "src": "src/routes/week2/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js"
+    ]
+  },
+  "src/routes/week2/laser/+page.svx": {
+    "file": "_app/immutable/components/pages/week2/laser/_page.svx-681a105b.js",
+    "src": "src/routes/week2/laser/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/week2/vinyl/+page.svx": {
+    "file": "_app/immutable/components/pages/week2/vinyl/_page.svx-8df3c6b5.js",
+    "src": "src/routes/week2/vinyl/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/week3/+page.svx": {
+    "file": "_app/immutable/components/pages/week3/_page.svx-d4a6860f.js",
+    "src": "src/routes/week3/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/week4/+page.svx": {
+    "file": "_app/immutable/components/pages/week4/_page.svx-98b98c59.js",
+    "src": "src/routes/week4/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Details-ccde7feb.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/week5/+page.svx": {
+    "file": "_app/immutable/components/pages/week5/_page.svx-0271c280.js",
+    "src": "src/routes/week5/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Details-ccde7feb.js",
+      "_Image-90aace8f.js"
+    ]
+  },
+  "src/routes/week6/+page.svx": {
+    "file": "_app/immutable/components/pages/week6/_page.svx-64dd1a1a.js",
+    "src": "src/routes/week6/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Details-ccde7feb.js",
+      "_Image-90aace8f.js",
+      "_Info-27e8a139.js",
+      "_SideBySide-02aeca15.js"
+    ]
+  },
+  "src/routes/week7/+page.svx": {
+    "file": "_app/immutable/components/pages/week7/_page.svx-8b074ac5.js",
+    "src": "src/routes/week7/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Details-ccde7feb.js",
+      "_Image-90aace8f.js",
+      "_SideBySide-02aeca15.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Info-cd969386.css"
+    ]
+  },
+  "src/routes/week8/+page.svx": {
+    "file": "_app/immutable/components/pages/week8/_page.svx-16ab8f1c.js",
+    "src": "src/routes/week8/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_paths-6cd3a76e.js",
+      "_Image-90aace8f.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-00093d79.css",
+      "_app/immutable/assets/Info-cd969386.css",
+      "_app/immutable/assets/SideBySide-eb2b74fa.css"
+    ]
+  },
+  "src/routes/week9/+page.svx": {
+    "file": "_app/immutable/components/pages/week9/_page.svx-aa9bb9c4.js",
+    "src": "src/routes/week9/+page.svx",
+    "isEntry": true,
+    "imports": [
+      "_index-3de37d12.js",
+      "_week_layout-f7784e77.js",
+      "_Image-90aace8f.js",
+      "_Info-27e8a139.js",
+      "_SideBySide-02aeca15.js"
+    ]
+  },
+  "src/routes/+layout.js": {
+    "file": "_app/immutable/modules/pages/_layout.js-7b9cbfbc.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true,
+    "imports": [
+      "__layout-8d2a742b.js"
+    ]
+  },
+  "_singletons-cc557a36.js": {
+    "file": "_app/immutable/chunks/singletons-cc557a36.js",
+    "imports": [
+      "_index-3de37d12.js",
+      "_paths-6cd3a76e.js"
+    ]
+  },
+  "_paths-6cd3a76e.js": {
+    "file": "_app/immutable/chunks/paths-6cd3a76e.js"
+  },
+  "_index-3de37d12.js": {
+    "file": "_app/immutable/chunks/index-3de37d12.js"
+  },
+  "__layout-8d2a742b.js": {
+    "file": "_app/immutable/chunks/_layout-8d2a742b.js"
+  },
+  "_Avatar-da2dfb39.js": {
+    "file": "_app/immutable/chunks/Avatar-da2dfb39.js",
+    "imports": [
+      "_index-3de37d12.js",
+      "_paths-6cd3a76e.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Avatar-948cd85c.css"
+    ]
+  },
+  "_week_layout-f7784e77.js": {
+    "file": "_app/immutable/chunks/week_layout-f7784e77.js",
+    "imports": [
+      "_index-3de37d12.js",
+      "_Avatar-da2dfb39.js"
+    ],
+    "css": [
+      "_app/immutable/assets/week_layout-29436407.css"
+    ]
+  },
+  "_Image-90aace8f.js": {
+    "file": "_app/immutable/chunks/Image-90aace8f.js",
+    "imports": [
+      "_index-3de37d12.js",
+      "_paths-6cd3a76e.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Image-307b1d0c.css"
+    ]
+  },
+  "_Details-ccde7feb.js": {
+    "file": "_app/immutable/chunks/Details-ccde7feb.js",
+    "imports": [
+      "_index-3de37d12.js"
+    ]
+  },
+  "_SideBySide-02aeca15.js": {
+    "file": "_app/immutable/chunks/SideBySide-02aeca15.js",
+    "imports": [
+      "_index-3de37d12.js"
+    ],
+    "css": [
+      "_app/immutable/assets/SideBySide-eb2b74fa.css"
+    ]
+  },
+  "_Info-27e8a139.js": {
+    "file": "_app/immutable/chunks/Info-27e8a139.js",
+    "imports": [
+      "_index-3de37d12.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Info-cd969386.css"
+    ]
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-9bf3b237.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__layout-8d2a742b.js",
+      "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "_app/immutable/chunks/1-59bcd6e9.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-3161ceea.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/3.js": {
+    "file": "_app/immutable/chunks/3-e9df082b.js",
+    "src": ".svelte-kit/generated/nodes/3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/final-project/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/4.js": {
+    "file": "_app/immutable/chunks/4-6a058fdd.js",
+    "src": ".svelte-kit/generated/nodes/4.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/to-come-back-to/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/5.js": {
+    "file": "_app/immutable/chunks/5-bff7d874.js",
+    "src": ".svelte-kit/generated/nodes/5.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/website/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/6.js": {
+    "file": "_app/immutable/chunks/6-5125a41c.js",
+    "src": ".svelte-kit/generated/nodes/6.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week1/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/7.js": {
+    "file": "_app/immutable/chunks/7-3f0fca45.js",
+    "src": ".svelte-kit/generated/nodes/7.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week2/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/8.js": {
+    "file": "_app/immutable/chunks/8-03ceb99d.js",
+    "src": ".svelte-kit/generated/nodes/8.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week2/laser/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/9.js": {
+    "file": "_app/immutable/chunks/9-a69dd578.js",
+    "src": ".svelte-kit/generated/nodes/9.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week2/vinyl/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/10.js": {
+    "file": "_app/immutable/chunks/10-19bf366b.js",
+    "src": ".svelte-kit/generated/nodes/10.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week3/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/11.js": {
+    "file": "_app/immutable/chunks/11-fa7222a5.js",
+    "src": ".svelte-kit/generated/nodes/11.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week4/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/12.js": {
+    "file": "_app/immutable/chunks/12-e06c975f.js",
+    "src": ".svelte-kit/generated/nodes/12.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week5/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/13.js": {
+    "file": "_app/immutable/chunks/13-65440ed4.js",
+    "src": ".svelte-kit/generated/nodes/13.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week6/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/14.js": {
+    "file": "_app/immutable/chunks/14-a8fa60f1.js",
+    "src": ".svelte-kit/generated/nodes/14.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week7/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/15.js": {
+    "file": "_app/immutable/chunks/15-ffa5c994.js",
+    "src": ".svelte-kit/generated/nodes/15.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week8/+page.svx"
+    ]
+  },
+  ".svelte-kit/generated/nodes/16.js": {
+    "file": "_app/immutable/chunks/16-addd39fe.js",
+    "src": ".svelte-kit/generated/nodes/16.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/week9/+page.svx"
+    ]
+  },
+  "Image.css": {
+    "file": "_app/immutable/assets/Image-307b1d0c.css",
+    "src": "Image.css"
+  },
+  "src/routes/week8/+page.css": {
+    "file": "_app/immutable/assets/_page-00093d79.css",
+    "src": "src/routes/week8/+page.css"
+  },
+  "Info.css": {
+    "file": "_app/immutable/assets/Info-cd969386.css",
+    "src": "Info.css"
+  },
+  "week_layout.css": {
+    "file": "_app/immutable/assets/week_layout-29436407.css",
+    "src": "week_layout.css"
+  },
+  "SideBySide.css": {
+    "file": "_app/immutable/assets/SideBySide-eb2b74fa.css",
+    "src": "SideBySide.css"
+  },
+  "Avatar.css": {
+    "file": "_app/immutable/assets/Avatar-948cd85c.css",
+    "src": "Avatar.css"
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page-5bb9f4b0.css",
+    "src": "src/routes/+page.css"
+  }
+}

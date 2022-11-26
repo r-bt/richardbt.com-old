@@ -1,0 +1,1 @@
+export { default as component } from "../../../src/routes/to-come-back-to/+page.svx";
