@@ -1,5 +1,6 @@
 {
 	"": [
+		"src/routes/+page.server.js",
 		"src/routes/+layout.js",
 		"src/routes/+layout.js"
 	],
@@ -37,6 +38,56 @@
 		"src/routes/+layout.js"
 	],
 	"week9": [
+		"src/routes/+layout.js"
+	],
+	"projects/week1": [
+		"src/routes/+layout.js"
+	],
+	"projects/week2": [
+		"src/routes/+layout.js"
+	],
+	"projects/week3": [
+		"src/routes/+layout.js"
+	],
+	"projects/week4": [
+		"src/routes/+layout.js"
+	],
+	"projects/week5": [
+		"src/routes/+layout.js"
+	],
+	"projects/week6": [
+		"src/routes/+layout.js"
+	],
+	"projects/week7": [
+		"src/routes/+layout.js"
+	],
+	"projects/week8": [
+		"src/routes/+layout.js"
+	],
+	"projects/week9": [
+		"src/routes/+layout.js"
+	],
+	"projects/final-project": [
+		"src/routes/+layout.js"
+	],
+	"projects/week9/week10": [
+		"src/routes/+layout.js"
+	],
+	"projects/week9/week11": [
+		"src/routes/+layout.js"
+	],
+	"projects/week9/week12": [
+		"src/routes/projects/week9/week12/+page.js",
+		"src/routes/+layout.js"
+	],
+	"projects/week10": [
+		"src/routes/+layout.js"
+	],
+	"projects/week11": [
+		"src/routes/+layout.js"
+	],
+	"projects/week12": [
+		"src/routes/projects/week12/+page.js",
 		"src/routes/+layout.js"
 	]
 }

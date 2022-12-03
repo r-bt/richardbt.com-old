@@ -28,5 +28,8 @@
 		"vite-imagetools": "^4.0.9",
 		"vite-plugin-imagemin": "^0.6.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"three": "^0.147.0"
+	}
 }

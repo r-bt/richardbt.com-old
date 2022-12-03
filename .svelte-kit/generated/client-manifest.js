@@ -14,24 +14,30 @@ export { matchers } from './client-matchers.js';
 	() => import('./nodes/11'),
 	() => import('./nodes/12'),
 	() => import('./nodes/13'),
-	() => import('./nodes/14')];
+	() => import('./nodes/14'),
+	() => import('./nodes/15'),
+	() => import('./nodes/16'),
+	() => import('./nodes/17')];
 
 			export const server_loads = [];
 
 			export const dictionary = {
-	"": [2],
-	"final-project": [3],
-	"to-come-back-to": [4],
-	"website": [5],
-	"week1": [6],
-	"week2": [7],
-	"week3": [8],
-	"week4": [9],
-	"week5": [10],
-	"week6": [11],
-	"week7": [12],
-	"week8": [13],
-	"week9": [14]
+	"": [~2],
+	"to-come-back-to": [16],
+	"website": [17],
+	"projects/final-project": [3],
+	"projects/week1": [4],
+	"projects/week10": [5],
+	"projects/week11": [6],
+	"projects/week12": [7],
+	"projects/week2": [8],
+	"projects/week3": [9],
+	"projects/week4": [10],
+	"projects/week5": [11],
+	"projects/week6": [12],
+	"projects/week7": [13],
+	"projects/week8": [14],
+	"projects/week9": [15]
 };
 
 			export const hooks = {

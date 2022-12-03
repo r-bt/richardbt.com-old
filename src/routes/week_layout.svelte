@@ -26,7 +26,7 @@
         box-sizing: border-box;
         padding: 0 1rem;
         font-size: 1.1rem;
-        
+        color: white;
     }
 
     div.text-body {

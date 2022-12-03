@@ -3,23 +3,25 @@
 </script>
 
 <div class="avatar">
-    <svg xmlns="http://www.w3.org/2000/svg" id="1213t" data-name="0" viewBox="0 0 369.67 75.19">
-        <defs>
-            
-            <linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
-                <stop offset="0%" stop-color="hsl(15 90% 55%)">
-                  <animate attributeName="stop-color" attributeType="CSS" values="hsl(15 90% 55%;hsl(40 95% 55%);hsl(15 90% 55%)" dur="5s" repeatCount="indefinite"></animate>
-                </stop>
-                <!-- <stop offset="100%" stop-color="hsl(40 95% 55%)">
-                  <animate attributeName="stop-color" attributeType="CSS" values="#5eaefd;#f00;#5eaefd;" dur="5s" repeatCount="indefinite"></animate>
-                </stop> -->
-            </linearGradient>
-            <style>
-                .cls-1{stroke: url(#gradient1);fill: url(#gradient1);stroke-linecap:round;stroke-linejoin:round}
-            </style>
-        </defs>
-        <path d="M26.04.64C3.59 1.27-.64-4.46.73 22.09h8.44v52.59h16.87ZM53.48 16.35h58.1V29.7c-84.1 3.77-75.09-17.93-75 45h91.86V58.95h-75V45.41h67.64a7.34 7.34 0 0 0 7.34-7.34V7.97a7.35 7.35 0 0 0-7.35-7.35H43.9c-10.37-.25-6.74 15.25-7.34 21.41h16.88ZM164.33.62c-22.45.62-26.68-5.1-25.31 21.45h8.43v52.59h16.89ZM191.74 16.33h58.1v13.35h-29V45.4h29v13.36h-58.1v-5.51H174.9c.7 6.18-3.11 21.62 7.34 21.38h77.17a7.35 7.35 0 0 0 7.35-7.35V44.84a7.35 7.35 0 0 0-6.94-7.33 7.34 7.34 0 0 0 6.94-7.33V7.95A7.35 7.35 0 0 0 259.41.6h-77.18c-10.37-.25-6.74 15.25-7.34 21.42h16.85ZM315 53.23h16.88v21.41H315zM315 29.67h16.88v15.71H315zM369.17.59 277.31.6v15.72l37.69-.01v5.7l16.87-.01v-5.69l37.3-.01V.59z" class="cls-1"/>
-    </svg>
+    <a href="/{base}">
+        <svg xmlns="http://www.w3.org/2000/svg" id="1213t" data-name="0" viewBox="0 0 369.67 75.19">
+            <defs>
+                
+                <linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" stop-color="hsl(15 90% 55%)">
+                      <animate attributeName="stop-color" attributeType="CSS" values="hsl(15 90% 55%;hsl(40 95% 55%);hsl(15 90% 55%)" dur="5s" repeatCount="indefinite"></animate>
+                    </stop>
+                    <!-- <stop offset="100%" stop-color="hsl(40 95% 55%)">
+                      <animate attributeName="stop-color" attributeType="CSS" values="#5eaefd;#f00;#5eaefd;" dur="5s" repeatCount="indefinite"></animate>
+                    </stop> -->
+                </linearGradient>
+                <style>
+                    .cls-1{stroke: url(#gradient1);fill: url(#gradient1);stroke-linecap:round;stroke-linejoin:round}
+                </style>
+            </defs>
+            <path d="M26.04.64C3.59 1.27-.64-4.46.73 22.09h8.44v52.59h16.87ZM53.48 16.35h58.1V29.7c-84.1 3.77-75.09-17.93-75 45h91.86V58.95h-75V45.41h67.64a7.34 7.34 0 0 0 7.34-7.34V7.97a7.35 7.35 0 0 0-7.35-7.35H43.9c-10.37-.25-6.74 15.25-7.34 21.41h16.88ZM164.33.62c-22.45.62-26.68-5.1-25.31 21.45h8.43v52.59h16.89ZM191.74 16.33h58.1v13.35h-29V45.4h29v13.36h-58.1v-5.51H174.9c.7 6.18-3.11 21.62 7.34 21.38h77.17a7.35 7.35 0 0 0 7.35-7.35V44.84a7.35 7.35 0 0 0-6.94-7.33 7.34 7.34 0 0 0 6.94-7.33V7.95A7.35 7.35 0 0 0 259.41.6h-77.18c-10.37-.25-6.74 15.25-7.34 21.42h16.85ZM315 53.23h16.88v21.41H315zM315 29.67h16.88v15.71H315zM369.17.59 277.31.6v15.72l37.69-.01v5.7l16.87-.01v-5.69l37.3-.01V.59z" class="cls-1"/>
+        </svg>
+    </a>
 </div>
 
 <style>

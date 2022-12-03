@@ -1,8 +1,6 @@
 import adapter from '@sveltejs/adapter-static';
 import {mdsvex} from 'mdsvex';
 
-const dev = true;
-
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	extensions: ['.svelte', '.svx', '.md'],
@@ -22,7 +20,7 @@ const config = {
 			fallback: null,
 			precompress: false
 		}),
-		paths: { base: dev ? "" : "/classes/MAS.863/EECS/people/Richard" },
+		paths: { base: "" },
 		trailingSlash: 'always',
 	}
 };

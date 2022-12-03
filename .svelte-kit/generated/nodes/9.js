@@ -1,1 +1,1 @@
-export { default as component } from "../../../src/routes/week4/+page.svx";
+export { default as component } from "../../../src/routes/projects/week3/+page.svx";

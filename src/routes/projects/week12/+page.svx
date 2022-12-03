@@ -1,0 +1,31 @@
+---
+title: 12 | Interface and Application programming
+layout: week
+---
+
+<script>
+	import { onMount } from 'svelte';
+	import Warning from '/src/components/Warning.svelte';
+
+
+</script>
+
+For this week our assignment was to <i>write an application that interfaces a user with an input &/or output device that you made</i>
+
+In input devices week I had made a hall-effect sensor but honestly I've made so many boards in the weeks since that when I went to try find it it was lost :(. Aww well. So I decided that I'd fix my dev board (which didn't work last week) and try build a breakout board for it
+
+## Fixing the dev board
+
+Firstly, I had to figure out what went wrong with my dev board last week. 
+
+<Warning>
+	As a quick refresher there were two major errors:
+	<ul>
+		<li>When I tried to remove the microusb cable from the microUSB port it ripped off the connector along with the traces</li>
+		<li>When I powered the board with the barell jack connector, smoke appeared and the chip started to bubble!</li>
+	</ul>
+</Warning>
+
+For the second one I suspected that my polarity was wrong. I had talked to Anthony before placing the connector in Eagle but unfortunately barell connectors aren't actually standarized. I had thought that ground was connected to the exposed metal on the side but it was actually live and hence my board got fried. At least using my power cable. Cause the polarity of the barell jack connector isn't decided by the connector but rarther the barell you stick into it. On every power adaptor it should include a sign which tells you the polarity. In my cause the (+) is connected to the inside while ground is on the outside which correspons to ground being the short pins and live being the large side pin.
+
+<!-- <Image src={} alt="Barell Polarity" /> -->
