@@ -15,7 +15,7 @@ image: "final-project-thumbnail.jpg"
 **Ideas**
 
 - AUV 
-    - Not sure if I can accomplish this with the supplies available – see <a href="{base}/week1">Week 1</a> for details
+    - Not sure if I can accomplish this with the supplies available – see <a href="{base}/projects/week1">Week 1</a> for details
 - DIY multi-color 3D printer
 
 **DIY Multi-color 3D printer**

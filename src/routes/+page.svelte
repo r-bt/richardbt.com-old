@@ -34,9 +34,9 @@
       {#each data.projects as project}
         <div class="project">
           <h3>{project.metadata.title}</h3>
-          {#if project.imgUrl}
+          {#if project.metadata.image}
             <a href={project.path}>
-              <img src={project.imgUrl} />
+              <img src={`thumbnails/${project.metadata.image}`} />
             </a>
           {/if}
         </div>
@@ -156,6 +156,12 @@
   @media (max-width: 800px) {
     .project {
       flex-basis: 48%;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .project {
+      flex-basis: 100%;
     }
   }
 </style>
